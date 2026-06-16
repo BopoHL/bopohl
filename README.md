@@ -1,6 +1,6 @@
 <img align="right" width="200" src="assets/avatar.jpg" alt="Leonid Voronin" />
 
-# Hi, I'm Leonid 👋
+### Hi, I'm Leonid 👋
 
 **Backend Engineer** from Tashkent, Uzbekistan 🇺🇿
 Building reliable backends in **fintech** and **medtech** — now going deep into **blockchain** and **Web3 security**.
